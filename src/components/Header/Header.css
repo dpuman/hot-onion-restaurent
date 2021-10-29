@@ -1,0 +1,10 @@
+.background {
+    background-image: url('../../assets/bannerbackground.png');
+    background-repeat: no-repeat;
+    top: 0;
+    background-size: cover;
+    background-position: center center;
+    height: 70vh;
+
+
+}
